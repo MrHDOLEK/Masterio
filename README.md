@@ -16,9 +16,8 @@ terminów z nimi związanymi.<br />
     <li>Brak testów jednostkowych</li>
     <li>spaghetti code</li>
     <li>Brak wykorzystania OPP</li>
-    <li>sql injections</li>
-    
-  </ul>
+    <li>sql injections</li></ul>
+  
 ## Tech/framework used 🔧
 
 | Tech                                                    | Description                              |
